@@ -22,7 +22,7 @@ body {
   .hero-image img {
     object-fit: contain;
     height: auto;
-    max-height: 100vh;
+    max-height: 80vh;
   }
 }
 
