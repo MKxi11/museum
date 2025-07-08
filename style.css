@@ -12,7 +12,7 @@ body {
 
 /* الصورة الكبيرة */
 .hero-image img {
-  width: 100%;
+  width: 98%;
   height: 100vh;
   object-fit: cover;
 }
