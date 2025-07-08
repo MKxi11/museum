@@ -12,9 +12,10 @@ body {
 
 /* الصورة الكبيرة */
 .hero-image img {
-    object-fit: cover;
-    height: auto;
-    max-height: 100vh;
+      width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  padding-left:20px;
 }
 
 /* الصف اللي فيه الثلاث صور */
